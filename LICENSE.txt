@@ -1,0 +1,18 @@
+CREATIVE COMMONS LICENSE
+
+Nombre del trabajo: Generador de Tablas de Multiplicar
+
+Autor: [Su Nombre]
+
+Licencia: Atribución 4.0 Internacional (CC BY 4.0)
+
+Usted es libre de:
+- Compartir: copiar y redistribuir el material en cualquier medio o formato.
+- Adaptar: remezclar, transformar y construir a partir del material para cualquier propósito, incluso comercialmente.
+
+Bajo los siguientes términos:
+- Atribución: Debe otorgar el crédito adecuado, proporcionar un enlace a la licencia e indicar si se han realizado cambios. Puede hacerlo de cualquier manera razonable, pero no de una manera que sugiera que usted o su uso tienen el apoyo de la licenciante.
+
+No hay restricciones adicionales: No puede aplicar términos legales o medidas tecnológicas que restrinjan legalmente a otros hacer cualquier cosa que la licencia permita.
+
+Para ver una copia de esta licencia, visite http://creativecommons.org/licenses/by/4.0/
